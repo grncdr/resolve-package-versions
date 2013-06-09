@@ -1,0 +1,18 @@
+{
+  "name": "resolve-package-versions",
+  "version": "0.0.0",
+  "description": "Resolve version ranges in a dependency stream using an npm-compatible registry",
+  "main": "index.js",
+  "dependencies": {
+    "semver": "~1.1.4",
+    "request": "~2.21.0",
+    "map-stream": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "MIT"
+}
